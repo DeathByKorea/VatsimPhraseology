@@ -1,0 +1,5 @@
+/home/lewis/RiderProjects/VATSIM Controlling generator/VATSIM Controlling generator/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/lewis/RiderProjects/VATSIM Controlling generator/VATSIM Controlling generator/bin/Debug/VATSIMControllinggenerator.pdb
+/home/lewis/RiderProjects/VATSIM Controlling generator/VATSIM Controlling generator/bin/Debug/VATSIMControllinggenerator.exe
+/home/lewis/RiderProjects/VATSIM Controlling generator/VATSIM Controlling generator/obj/Debug/VATSIMControllinggenerator.exe
+/home/lewis/RiderProjects/VATSIM Controlling generator/VATSIM Controlling generator/obj/Debug/VATSIMControllinggenerator.pdb
