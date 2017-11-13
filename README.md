@@ -1,4 +1,4 @@
-#VATSIM Controlling generator
+# VATSIM Controlling generator
 Simple program to generate Clearances, Ground ops, And Tower ops for you.
 
 Oh yeah but we can just use aliases to do this.
